@@ -6,8 +6,8 @@ Built with **Python, Streamlit, Plotly, and Pandas** — fully dynamic, data-dri
 ---
 
 ## 🚀 Live Demo
-👉 **[Launch Dashboard](https://mahi-jindal-global-insights.streamlit.app/)**  
-*(replace this link once deployed on Streamlit Cloud)*
+👉 https://7qrwsefh6qkrbbzrundii7.streamlit.app/  
+
 
 ---
 
@@ -35,3 +35,8 @@ Built with **Python, Streamlit, Plotly, and Pandas** — fully dynamic, data-dri
 ---
 
 ## 📂 Project Structure
+global_insights_streamlit/
+│
+├── app.py # Main Streamlit app
+├── requirements.txt # Dependencies
+└── README.md # Documentation
